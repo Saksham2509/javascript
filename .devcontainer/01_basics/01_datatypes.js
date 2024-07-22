@@ -19,3 +19,4 @@ console.log("hitesh");
 console.log(typeof undefined); // undefines (output)
 console.log(typeof null); // object(output)
 
+console.log("ska")
