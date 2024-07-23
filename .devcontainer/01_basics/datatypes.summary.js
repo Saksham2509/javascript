@@ -29,3 +29,14 @@ const myfunction= function(){
  console.log("Hello World")
  }
 
+
+ //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+ // Stack(Primitive),heap(non-primitive)
+ let myytname="sakshamkhurana"
+ let anotherytname=myytname
+ anotherytname="chai lelo"
+ console.log(anotherytname);
+ console.log(myytname);
+
